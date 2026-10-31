@@ -1,0 +1,26 @@
+MINE PPE REPORT (automated visual assessment - human verification required)
+===========================================================================
+Photos analyzed: 4
+Confidence threshold: 0.90
+
+OVERALL
+  People detected:      9
+  Vest detected:        4 (44%)
+  No vest detected:     5 (56%)
+
+BY HARD HAT COLOR
+  Hat color            People   Vest detected   No vest detected
+  Red*                      1   0 (0%)          1 (100%)        
+  White                     5   3 (60%)         2 (40%)         
+  Yellow*                   1   0 (0%)          1 (100%)        
+  Uncertain*                1   0 (0%)          1 (100%)        
+  No hat detected*          1   1 (100%)        0 (0%)          
+
+NOTES
+  *This is not 100 percent effective and should be checked by
+ a human. Hat percentages are for detecting compliance among 
+ different members of the working group.
+
+ITEMS FOR HUMAN REVIEW
+  IMG_8333.jpg, person 1: hat detected as both red and white
+  IMG_8359.jpg: no people detected

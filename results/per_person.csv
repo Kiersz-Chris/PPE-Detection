@@ -1,0 +1,10 @@
+image,person,person_confidence,vest_detected,vest_confidence,hat_color,hat_confidence,review_notes
+IMG_7603.jpg,0,1.0,Yes,0.99,White,1.0,
+IMG_7603.jpg,2,1.0,Yes,1.0,No hat detected,,
+IMG_7603.jpg,0,1.0,Yes,0.99,White,0.97,
+IMG_8333.jpg,0,1.0,No,,White,1.0,
+IMG_8333.jpg,1,1.0,No,,Uncertain,0.91,hat detected as both red and white
+IMG_8333.jpg,0,1.0,No,,Red,0.91,
+IMG_8333.jpg,0,1.0,No,,White,1.0,
+IMG_8333.jpg,0,1.0,No,,Yellow,1.0,
+IMG_8681.jpg,0,1.0,Yes,1.0,White,0.99,
