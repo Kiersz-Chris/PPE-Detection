@@ -15,8 +15,8 @@ This project checks site photos for people, safety vests, and hard hats. It uses
 Requires Python 3.12
 
 ```
-git clone https://github.com/YOUR_USERNAME/ppe-detection.git
-cd ppe-detection
+git clone https://github.com/Kiersz-Chris/ppe-detection.git
+cd PPE-Detection
 pip install -r requirements.txt
 ```
 
